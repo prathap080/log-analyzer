@@ -1,0 +1,5 @@
+Unique Servers:
+
+google: 172.217.167.174 (repeated 1) is Reachable
+serv2: 99.1.1.1 (repeated 2) is Not Reachable
+serv1: 100.1.1.1 (repeated 4) is Reachable
